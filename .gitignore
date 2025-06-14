@@ -1,0 +1,9 @@
+/imgui.ini
+__pycache__
+.idea
+/Explicit_MassSpring/imgui.ini
+/runs/
+/hmm/
+/Scene/target/histogram/
+/Scene/resultPINN/
+/Scene/result_avg_step/
