@@ -5,6 +5,8 @@
   <img src="gen.gif" width="45%"/>
   <br>
   <em>Learning from target Bunny (40 frames) → Generating Armadillo scene!</em>
+  <br>
+  Rendered with Blender.
 </p>
 
 ---
@@ -48,5 +50,5 @@
 
 ## 4.setup
 
-We used an **RTX 3090** GPU, with **Python 3.9**, **PyTorch 2.5.0**, and **CUDA Toolkit 11.8**.
-We also used [Taichi](https://www.taichi-lang.org/) and [Mesh Taichi](https://github.com/taichi-dev/meshtaichi).
+I used an **RTX 3090** GPU, with **Python 3.9**, **PyTorch 2.5.0**, and **CUDA Toolkit 11.8**.<br>
+I also used [Taichi](https://www.taichi-lang.org/) and [Mesh Taichi](https://github.com/taichi-dev/meshtaichi).
