@@ -1,4 +1,4 @@
-# Learning Neural **Hyper-Elastic** Constraints in XPBD
+# Learning Neural Hyperelastic Constraints in XPBD
 *From a few frames, learning a reusable constraint directly inside XPBD.*
 <p align="center">
   <img src="GT.gif"  width="45%"/>
